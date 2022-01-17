@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Alau Online Ticket</title>
+		<link href="Project_01.02.22.css" rel="stylesheet" type"text/css"/>
+		<link rel="icon" href="images/favicon.ico">
+	</head>
+	<body>
+		<div class="title">
+		<h1><em><a id="titles" href="https://www.alau.info/" target="_blank">Alau </a></em>Ticket Sale</h1>
+		</div>
+		<img src="">
+		<figure>
+			<img class="titleimg" src="images/title.png">
+			<figcaption><em>Closer than you think</em></figcaption>
+		</figure>
+		<header>
+			<nav>
+				<a id="menu" href="Project_01.02.22.html#mainInfo">|Info|</a>
+				<a id="menu" href="Project_01.02.22.html#about">|About|</a>
+				<a id="menu" href="Project_01.02.22.html#gallery">|Gallery|</a>
+				<a id="menu" href="Project_01.02.22.html#contact">|Contact|</a>
+			</nav>
+		</header>
+		<div id="buyNowb">
+			<h1><strong><a id="buyNow" href="ProjectPart2_01.02.22.html"> Buy Now</a></strong><br></h1>
+			<div id="numTick">1600 tickets available</div>
+		</div>
+			<section>
+			<h2><a name="mainInfo">Main info</a></h2>
+		<article>
+				<p>Choose the session and the number of tickets. Pay using a QR code. Receive a notification by email. Come to the session by providing an email notification.</p>
+		</article>
+			<table border="1">
+				<tr>
+					<th>Time</th>
+					<th>Enterance</th>
+					<th>Price(partial)</th>
+					<th>Price(full)</th>
+				</tr>
+				<tr>
+					<th>Weekdays</th>
+				</tr>
+				<tr>
+					<th>19:00-20:30</th>
+					<th>E1</th>
+					<th>800</th>
+					<th>1500</th>
+				</tr>
+				<tr>
+					<th>21:30-23:00</th>
+					<th>E2</th>
+					<th>800</th>
+					<th>1500</th>
+				</tr>
+				<tr>
+					<th>Weekend</th>
+				</tr>
+				<tr>
+					<th>12:00-14:00</th>
+					<th>E1</th>
+					<th>500</th>
+					<th>800</th>
+				</tr>
+				<tr>
+					<th>15:00-17:00</th>
+					<th>E2</th>
+					<th>1200</th>
+					<th>2000</th>
+				</tr>
+				<tr>
+					<th>18:00-20:00</th>
+					<th>E1</th>
+					<th>1200</th>
+					<th>2000</th>
+				</tr>
+				<tr>
+					<th>21:30-23:00</th>
+					<th>E2</th>
+					<th>1200</th>
+					<th>2000</th>
+				</tr>
+			</table>
+	</section>
+	<section>
+	<h2><a name="about">About</a></h2>
+		<article>
+			<p>The higher the rink is above sea level, the faster the ice. It's no
+			secret that flat ice rinks do not give super speeds. "Alau",
+			being at an altitude of 349 meters above sea level, intends to
+			argue with this statement.</p>
+			<p>Many factors need to be taken into account to create fast ice. In any case, this is the work of a man. Ice preparation in "Alau" is carried out by specialists who know a lot about fast ice. The results of the Asian Games confirm this – nine continental records have been set on our ice. And every new competition in the Palace is a moment of truth, an event for which the entire staff of the Palace is preparing with special care.</p>
+			<p>Another advantage of the Palace should be noted – its metropolitan status. The Ice Palace is organically part of the city's infrastructure. By the advantages of "Alau" we understand all the positive things that exist in Nur-Sultan, and we count on a whole range of services that go far beyond the walls of the Palace. Taking into account the capabilities of Nur-Sultan as a whole, the Ice Palace is able to offer athletes a modern airport, perfect transport highways, cultural facilities, a modern green city. All this matters to athletes. That is why, fighting for the title of the best skating rink in the world, we are pushing the limits of the Palace to the limits of the whole city. Nur-Sultan is one of the sports centers of Asia. And this is the main potential of our Palace.</p>
+			<p>The ultimate goal is to make Alau the best in the CIS, a truly multifunctional complex. On the one hand, it is an ice rink capable of hosting sports competitions at the highest level: world championships, Asian Championships, and the Republic. On the other hand, it is a public sports complex for everyone. One of the mottos that we adopt is: Champion ice for everyone!</p>
+			<p>Alau is constantly developing a public accessibility program so that everyone can come and skate, play hockey, visit fitness, sauna, SPA, as well as athletic and gaming halls. At the first stage, the accessibility program is aimed at creating optimal conditions for conducting training camps and classes of children's sports sections. The second stage is the launch of a fitness center and the "Mass Skating" project.</p>
+		</article>
+	</section>
+	<section>
+	<h2><a name="gallery">Gallery</a></h2>
+		<figure>
+				<img id="img1" src="images/gallery1.jpg" width="420px"/>
+				<img id="img1" src="images/gallery2.jpg" width="420px" height="253px"/>
+				<img id="img1" src="images/gallery3.jpg" width="420px" height="255px"/>
+		</figure>
+	</section>
+	<section>
+	<h2><a name="contact">Contact</a></h2>
+		<article>
+		<p>+7 (7172) 706-722, 706-802</p>
+		<p>47 Kabanbai Batyr Ave., Nursultan City, Republic of Kazakhstan
+		<br>e-mail: mail@alau.info</p>
+		</article>
+	</section>
+	</body>
+</html>
